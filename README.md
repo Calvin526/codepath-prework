@@ -45,20 +45,20 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](gif4-link-here)
 
 ## Reflection Questions
-**1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. **
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     I used a few outside resources such as w3schools.com because I was confused on how to implement some code in Javascript where it would generate a random pattern each time the user pressed the start button on the screen.
 
-**2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) **
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
     When I was working on this project, I had a hard time trying to make the Guess function. This was because I was a bit confused on what variables controlled the guessCounter and progress. It was also difficult at first to implement a function where each time the user pressed the start button, a new pattern would be generated. I thought this could be done by setting all the values of the array to values 1-6 but I realized I need to set my array to size "8," and then use a for-loop to set each variable to a value between 1-6. I also had a little difficulty implementing.
 
-**3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) **
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
     Regarding web development, what would happen if I attempted to make a website using just HTML since CSS controls the website’s appearance and Javascript controls the website’s behavior. Is it also good to have some experience in some back-end programming language when trying to learn Javascript, because I noticed that it’s very similar to Java/C++ that I learned in school. I also want to know if it's possible to show a variable in Javascript in the HTML body because I was trying to implement a mistakeCounter but I was confused on how to show it.
 
 
-**4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) **
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
     If I had a few more hours to work on this project, I would have definitely added a mistakeCounter so it shows the user how many mistakes they are from getting a "Game Over" notifcation. I also would've added a section where it shows all the previous buttons pressed or how far the user is from winning the game.
 
