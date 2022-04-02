@@ -6,7 +6,7 @@ Submitted by: Calvin Garcia
 
 Time spent: 10 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/sdfadasdasd
+Link to project: https://glitch.com/edit/#!/light-sound-prework
 
 ## Required Functionality
 
