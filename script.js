@@ -16,7 +16,7 @@ var mistakeCounter = 0;
 function startGame(){
     //initialize game variables
     //Random Array Value Generator
-    for (var i = 0; i < 8; i++)
+    for (var i = 0; i < 5; i++)
     {
       pattern[i] = Math.floor(Math.random() * 4) + 1;
     }
