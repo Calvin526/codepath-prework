@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Game Completion](https://user-images.githubusercontent.com/102778686/161361933-8144f413-d6dd-4091-86dc-e6b54000d2f8.gif)
-![Three Mistakes](https://user-images.githubusercontent.com/102778686/161362254-796ba5b1-7b2e-456e-9dc7-2d44f2426255.gif)
-![Different Pattern](https://user-images.githubusercontent.com/102778686/161362405-4d7ae53b-0011-4ab5-bc85-ec698fbd25b2.gif)
+[Game Completion](https://user-images.githubusercontent.com/102778686/161361933-8144f413-d6dd-4091-86dc-e6b54000d2f8.gif)
+[Three Mistakes](https://user-images.githubusercontent.com/102778686/161362254-796ba5b1-7b2e-456e-9dc7-2d44f2426255.gif)
+[Different Pattern](https://user-images.githubusercontent.com/102778686/161362405-4d7ae53b-0011-4ab5-bc85-ec698fbd25b2.gif)
 
 
 ## Reflection Questions
