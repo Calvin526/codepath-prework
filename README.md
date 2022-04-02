@@ -6,7 +6,7 @@ Submitted by: Calvin Garcia
 
 Time spent: 10 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/sdfadasdasd?path=README.md%3A81%3A34
+Link to project: https://glitch.com/edit/#!/sdfadasdasd
 
 ## Required Functionality
 
@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I used a few outside resources such as w3schools.com because I was confused on how to implement some code in Javascript where it would generate a random pattern each time the user pressed the start button on the screen.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Calvin Garcia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
